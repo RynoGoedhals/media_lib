@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__media_lib.o
+[PROJECT FILES]
+/home/onyr/Documents/media_lib/media_lib.gpr
+20261107232032 89c1905dbb56b0248f26fcecbbf5677b
+/home/onyr/Documents/media_lib/config/media_lib_config.gpr
+20261107232032 18775632d208c992b6b3e9fbb4d1936c
+[BOUND OBJECT FILES]
+/home/onyr/Documents/media_lib/obj/development/media_types.o
+/home/onyr/Documents/media_lib/obj/development/probe.o
+/home/onyr/Documents/media_lib/obj/development/media_lib.o
+[GENERATED SOURCE FILES]
+b__media_lib.ads
+b__media_lib.adb
+b__media_lib.ali
+[RESULTING OPTIONS]
+-L/home/onyr/Documents/media_lib/obj/development/
+-L/home/onyr/Documents/media_lib/obj/development/
+-L/home/onyr/.local/share/alire/toolchains/gnat_native_16.1.0_9f74f58a/lib/gcc/x86_64-pc-linux-gnu/16.1.0/adalib/
+-static
+/home/onyr/.local/share/alire/toolchains/gnat_native_16.1.0_9f74f58a/lib/gcc/x86_64-pc-linux-gnu/16.1.0/adalib/libgnat.a
+-ldl
